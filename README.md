@@ -1,10 +1,13 @@
 ## Info
 
-(WARNING: The live version seems a little slow on updating when adding/removing a meetup, just give it a little time and maybe an extra click/reload for new meetups to show,
-I might look more into this but it's just a demo and does its job with a little patience. I suspect it's something to do with the connection of Vercel/MongoDB)
+(WARNING: The live version seems a little slow on updating when adding/removing a meetup, just give it a little time and maybe an extra click/reload for new meetups to show.
+I might look more into this but it's just a demo and does its job with a little patience. I suspect it's something to do with the connection of Vercel/MongoDB as local runs fine)
 
-A React NextJS course project using MongoDB, won't work on it's own without credentials for MongoDB.
-Contact me if you must for the credentials but there is a working live version setup for viewing the app in action.
+A React NextJS course project using MongoDB changed by adding a functional remove button for cleaning up meetups and hiding MongoDB key using .env file for public viewing.
+
+There is a working live version setup for viewing the app in action.
+
+If you break it, that's fine, just tell me how you did it! :D
 
 ## Misc
 
